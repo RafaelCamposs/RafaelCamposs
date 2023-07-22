@@ -6,8 +6,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Back-end Development with nodejs and improving my skills in the languages below
--  **Languages :** Javascript, C, Java, CSS, HTML
+-  **Learning :** Working with backend development, sometimes frontend, and always eager to learn something new **
+-  **Languages :** Laravel, PHP, Javascript, Python, CSS, HTML
 -  **Hobbies :** Games 🎮, Music :headphones: and Movies 🎬
 
 
