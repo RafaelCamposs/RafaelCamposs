@@ -6,10 +6,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Working with backend development, sometimes frontend, and always eager to learn something new **
--  **Languages :** Laravel, PHP, Javascript, Python, CSS, HTML
--  **Hobbies :** Games 🎮, Music :headphones: and Movies 🎬
-
+-  Working with backend development, sometimes frontend, and always eager to learn something new
+-  **Languages :** Kotlin, PHP, Python, Typescript
+-  **Frameworks :** Spring, Laravel, Nest
+-  **Hobbies :** Games, Music and Movies 🎬
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
